@@ -1,29 +1,30 @@
 ### 👋 Hi there, I'm Olga 😊
 
-About:
-
 - 👩‍💻 Junior Frontend Developer (React.js)
+- 🔭 Open for new opportunities
 - 🇺🇦 Kyiv, Ukraine
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me:
 - 📧 ol0108ha@gmail.com
-- 📞 067 220 14 54
+- 📱 [telegram](https://t.me/olha_ua68)
+- 🔗 [linkedin](https://www.linkedin.com/in/olga-vorobiova0108/?locale=en_US)
+- 📞 +38 067 220 14 54
 
-🔭 Group projects I've participated in 👀:
+#### 🔭 Group projects I've participated in 👀:
 
 - 🍩 [Donut Masterclass with the Donut King ](https://olha0108.github.io/donut/)
-  A responsive landing page for registration on the donut masterclass with the Donut King and various detailed information about a donut and with a possibility to contact.
-  Frontend: HTML, CSS (SASS), JS
+  A responsive landing page for registration on the donut masterclass with the Donut King and various detailed information about a donut and with a possibility to contact.  
+  Frontend: HTML, CSS (SASS), JS  
   Libraries: Swiper, Simple Lightbox, Animate. Webp images as alternative.
   Parcel
 
-- 🎥 [Filmoteka] (https://ddekerr.github.io/Filmoteka/) Filmoteka is an adaptive website for searching movies and saving them to user list.
-  Frontend: HTML, CSS (SASS), JS, REST API
-  Backend: MovieDB, Firebase.
+- 🎥 [Filmoteka](https://ddekerr.github.io/Filmoteka/) Filmoteka is an adaptive website for searching movies and saving them to user list.  
+  Frontend: HTML, CSS (SASS), JS, REST API  
+  Backend: MovieDB, Firebase.  
   Libraries: JS Loading Overlay, axios, TUI Pagination, Basic Lightbox
   Parsel.
 
-👩‍💻 Own projects:
+#### 👩‍💻 Own projects:
 
 🔵 React
 
@@ -102,4 +103,3 @@ https:// /|-->
 <img align="left" alt="terminal" width="25px" src=" " />
 
 <img alt="WordPress" width="25px" src=" " />
-
