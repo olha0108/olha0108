@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 📧 ol0108ha@gmail.com 📱 [telegram](https://t.me/olha_ua68) 🔗 [linkedin](https://www.linkedin.com/in/olga-vorobiova0108/?locale=en_US)
 - 📞 +38 067 220 14 54
-***
-### My Skill Set
+
+---
+
+#### 🍀 My Skill Set
 
 <img align="left" alt="react" width="25px" src="" />
 
@@ -42,7 +44,8 @@
 
 <img alt="WordPress" width="25px" src=" " />
 
-***  
+---
+
 #### 👌 Team projects I've participated in 👀:
 
 - 🍩 [Donut Masterclass with the Donut King ](https://olha0108.github.io/donut/)
@@ -56,8 +59,9 @@
   Backend: MovieDB, Firebase.  
   Libraries: JS Loading Overlay, axios, TUI Pagination, Basic Lightbox
   Parsel.
-  
-***
+
+---
+
 #### 👩‍💻 Own projects:
 
 🔵 React
