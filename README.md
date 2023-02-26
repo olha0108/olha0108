@@ -10,6 +10,7 @@
 
 #### 🍀 My Skill Set
 
+<div align="center">
 <img align="left" alt="react" width="35px" src="https://user-images.githubusercontent.com/101519540/221417048-659a47d4-3044-4477-9464-2722a94703d5.svg" />
 
 <img align="left" alt="redux" width="35px" src="https://user-images.githubusercontent.com/101519540/221417442-ef2c8617-d998-4a5b-b6c2-a71365976804.png" />
@@ -41,7 +42,8 @@
 <img align="left" alt="id" width="35px" src="https://user-images.githubusercontent.com/101519540/221417397-760b426a-c5a1-4e05-accd-9c13fab3ccba.svg" />
 
 <img align="left" alt="WordPress" width="35px" src="https://user-images.githubusercontent.com/101519540/221417681-33665576-90b5-460c-be1c-9ef3d60cccbc.svg" />
-
+</div>  
+<br/>  
 ---
 
 #### 👌 Team projects I've participated in 👀:
