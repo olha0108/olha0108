@@ -19,7 +19,7 @@
 
 <img align="left" alt="typescript" width="35px" src="https://user-images.githubusercontent.com/101519540/221417484-2104fcd7-db70-4f52-b0a1-3ea57e536a5a.png" />
 
-<img align="left" alt="javascript" width="30px" src="https://user-images.githubusercontent.com/101519540/221418857-afd2f67e-6307-429c-b532-0e2e3f9fa8c4.png" />
+<img align="left" alt="javascript" width="27px" src="https://user-images.githubusercontent.com/101519540/221418857-afd2f67e-6307-429c-b532-0e2e3f9fa8c4.png" />
 
 <img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/101519540/221417151-56b9b67e-6ba8-41ca-90a1-41e0c2d6b012.svg" />
 
@@ -42,7 +42,7 @@
 <img align="left" alt="WordPress" width="35px" src="https://user-images.githubusercontent.com/101519540/221417681-33665576-90b5-460c-be1c-9ef3d60cccbc.svg" />
 </div>  
 <br/>  
-<hr/> 
+<hr/>
 
 #### 👌 Team projects I've participated in 👀:
 
