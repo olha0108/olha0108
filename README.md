@@ -15,11 +15,11 @@
 
 <img align="left" alt="redux" width="35px" src="https://user-images.githubusercontent.com/101519540/221417442-ef2c8617-d998-4a5b-b6c2-a71365976804.png" />
 
-<img align="left" alt="reactnative" width="35px" src="https://user-images.githubusercontent.com/101519540/221417463-50fdc7fa-46f7-477b-af0e-8844e3527fb6.png" />
+<img align="left" alt="reactnative" width="35px" src="https://user-images.githubusercontent.com/101519540/221418897-db214cc9-aaac-49ea-a952-1f44c87ad310.png" />
 
 <img align="left" alt="typescript" width="35px" src="https://user-images.githubusercontent.com/101519540/221417484-2104fcd7-db70-4f52-b0a1-3ea57e536a5a.png" />
 
-<img align="left" alt="javascript" width="35px" src="https://user-images.githubusercontent.com/101519540/221417526-f676b783-5428-4835-a070-3a8e7c9a0531.png" />
+<img align="left" alt="javascript" width="35px" src="https://user-images.githubusercontent.com/101519540/221418857-afd2f67e-6307-429c-b532-0e2e3f9fa8c4.png" />
 
 <img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/101519540/221417151-56b9b67e-6ba8-41ca-90a1-41e0c2d6b012.svg" />
 
@@ -27,7 +27,7 @@
 
 <img align="left" alt="Sass" width="35px" src="https://user-images.githubusercontent.com/101519540/221417191-cd486e32-fb26-4297-8644-5079b8e14f8a.svg" />
 
-<img align="left" alt="webpack" width="35px" src="https://user-images.githubusercontent.com/101519540/221417756-88e1b9c1-80eb-4b59-aace-83d90019fab3.png" />
+<img align="left" alt="webpack" width="35px" src="https://user-images.githubusercontent.com/101519540/221418933-96c9b9bf-dae7-4015-93a2-e77cc8a9bc2f.png" />
 
 <img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/101519540/221417220-387731ad-8668-4c79-ac4f-e5740610d283.svg" />
 
@@ -44,6 +44,7 @@
 <img align="left" alt="WordPress" width="35px" src="https://user-images.githubusercontent.com/101519540/221417681-33665576-90b5-460c-be1c-9ef3d60cccbc.svg" />
 </div>  
 <br/>  
+<hr/> 
 ---
 
 #### 👌 Team projects I've participated in 👀:
