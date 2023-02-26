@@ -40,10 +40,10 @@
 
 <img align="left" alt="id" width="40px" src="https://user-images.githubusercontent.com/101519540/221417397-760b426a-c5a1-4e05-accd-9c13fab3ccba.svg" />
 
-<img align="left" alt="WordPress" width="40px" src="https://user-images.githubusercontent.com/101519540/221417681-33665576-90b5-460c-be1c-9ef3d60cccbc.svg" />
-
+<img align="left" alt="WordPress" width="40px" src="https://user-images.githubusercontent.com/101519540/221417681-33665576-90b5-460c-be1c-9ef3d60cccbc.svg" />  
+  
 ---
-
+  
 #### 👌 Team projects I've participated in 👀:
 
 - 🍩 [Donut Masterclass with the Donut King ](https://olha0108.github.io/donut/)
