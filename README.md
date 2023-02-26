@@ -10,7 +10,7 @@
 
 #### 🍀 My Skill Set
 
-<img align="left" alt="react" width="25px" src="" />
+<img align="left" alt="react" width="25px" src="https://user-images.githubusercontent.com/101519540/221417048-659a47d4-3044-4477-9464-2722a94703d5.svg" />
 
 <img align="left" alt="redux" width="25px" src="" />
 
