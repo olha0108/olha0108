@@ -1,10 +1,9 @@
 ### 👋 Hi there, I'm Olga 😊
 
-- 👩‍💻 Junior Frontend Developer (React.js) 🇺🇦 Kyiv, Ukraine
+- 👩‍💻 🇺🇦 Kyiv, Ukraine
 - 🔭 Open for new opportunities
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me: 📧 ol0108ha@gmail.com 📱 [telegram](https://t.me/olha_ua68) 🔗 [linkedin](https://www.linkedin.com/in/olga-vorobiova0108/?locale=en_US)
-- 📞 +38 067 220 14 54
+- 🌱 I’m currently learning 
+- 📫 How to reach me: 📧 ol0108ha@gmail.com 
 
 ---
 
